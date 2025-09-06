@@ -1,4 +1,4 @@
-istema de Gestión Escolar CRUD
+Sistema de Gestión Escolar CRUD
 Este proyecto es una aplicación web para gestionar alumnos, profesores y materias, construida con Laravel 11, React y Inertia.js. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) y establecer relaciones de muchos a muchos entre las entidades principales.
 
 Configuración del Entorno (.env)
